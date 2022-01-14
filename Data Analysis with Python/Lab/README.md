@@ -1,4 +1,6 @@
-Week 1:Importing Datasets
+<h1>Lesson Summary</h1>
+
+Week 1: Importing Datasets
 - Define the Business Problem: Look at the data and make some high-level decision on what kind of analysis should be done
 
 - Import and Export Data in Python: How to import data from multiple data sources using the Pandas library and how to export files into different formats.
