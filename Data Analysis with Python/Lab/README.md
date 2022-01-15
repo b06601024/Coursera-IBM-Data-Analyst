@@ -16,7 +16,6 @@ Week 2: Data Wrangling
 
 Week 3: Exploratory Data Analysis
 
-In this lesson, you have learned how to:
 
 - Describe Exploratory Data Analysis: By summarizing the main characteristics of the data and extracting valuable insights.
 
