@@ -13,3 +13,17 @@ Week 2: Data Wrangling
 - Understand Data Formatting: Wrangle features in a dataset and make them meaningful for data analysis.
 
 - Apply normalization to a data set: By understanding the relevance of using feature scaling on your data and how normalization and standardization have varying effects on your data analysis.
+
+Week 3: Exploratory Data Analysis
+
+In this lesson, you have learned how to:
+
+- Describe Exploratory Data Analysis: By summarizing the main characteristics of the data and extracting valuable insights.
+
+- Compute basic descriptive statistics: Calculate the mean, median, and mode using python and use it as a basis in understanding the distribution of the data.
+
+- Create data groups: How and why you put continuous data in groups and how to visualize them.
+
+- Define correlation as the linear association between two numerical variables: Use Pearson correlation as a measure of the correlation between two continuous variables
+
+- Define the association between two categorical variables: Understand how to find the association of two variables using the Chi-square test for association and how to interpret them.
