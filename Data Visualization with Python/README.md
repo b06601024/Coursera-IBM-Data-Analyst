@@ -6,3 +6,5 @@ Week 2 Quiz answers: Please refer to **Basic Visualization Tools.png** & **Speci
 Week 3 Quiz answers: Please refer to **Advanced Visualization Tools.png** & **Visualizing Geospatial Data.png**
 
 Week 4 Quiz answers: Please refer to **Plotly and Dash.png**
+
+Week 5 Final Assignment: Please refer to **Peer Graded Assignment.md**
