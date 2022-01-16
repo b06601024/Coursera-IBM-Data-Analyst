@@ -1,1 +1,0 @@
-Graded Quiz Only
